@@ -1,0 +1,16 @@
+{
+  "name": "mo-service",
+  "version": "0.0.1",
+  "description": "Test application for handling Beepsend callbacks (MO/DLR)",
+  "main": "app.js",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrik Myntti",
+  "license": "MIT"
+}
